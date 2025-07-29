@@ -62,10 +62,10 @@
 
 ### License
 
-[MIT](LICENSE) © [Dipesh Malvia](https://github.com/dmalvia/)
+[MIT](LICENSE) © [Shasi kiran](https://github.com/bshasikiran/)
 
 <br>
 
 ### Developer 😎
 
-Made with ❤ by [Dipesh Malvia](https://github.com/dmalvia/).
+Made with ❤ by [Shasi kiran](https://github.com/bshasikiran/).
